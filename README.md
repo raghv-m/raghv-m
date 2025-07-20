@@ -34,7 +34,7 @@
   <a href="mailto:devrvm@gmail.com"><img src="https://img.shields.io/badge/Email-devrvm@gmail.com-blue?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/raghav-mahajan-17611b24b/"><img src="https://img.shields.io/badge/LinkedIn-Raghav%20Mahajan-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://www.raghv.dev"><img src="https://img.shields.io/badge/Portfolio-www.raghv.dev-brightgreen?style=for-the-badge&logo=vercel" /></a>
-  <a href="https://instagram.com/raghv-m"><img src="https://img.shields.io/badge/Instagram-raghv--m-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://instagram.com/ragh.v_"><img src="https://img.shields.io/badge/Instagram-raghv--m-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
