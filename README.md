@@ -14,10 +14,10 @@
 ---
 
 ```
-                                                                                          █████████████████████████████████████████
-                                                                                          █  BUILDING DEFENSIVE INFRASTRUCTURE    █
-                                                                                          █  HUNTING THREATS | SECURING SYSTEMS   █
-                                                                                          █████████████████████████████████████████
+                          █████████████████████████████████████████
+                          █  BUILDING DEFENSIVE INFRASTRUCTURE    █
+                          █  HUNTING THREATS | SECURING SYSTEMS   █
+                          █████████████████████████████████████████
 ```
 
 </div>
