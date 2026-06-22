@@ -1,100 +1,104 @@
-<h1 align="center">👋 Hey folks, I'm Raghav Mahajan</h1>
-<h3 align="center">Full-Stack Developer • Builder of Smart Web Apps • Based in Canada 🇨🇦</h3>
+# Hey, I'm Raghav 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raghv-m&label=Profile%20views&color=0e75b6&style=flat" alt="raghv-m" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=raghv-m&theme=gruvbox&margin-w=10&margin-h=15" alt="trophies" />
+**Cybersecurity Professional | SOC Analyst | HomeLab Enthusiast**  
+Edmonton, AB 🇨🇦
+
+---
+
+## about me
+
+i'm a cybersecurity analyst and engineer building defensive infrastructure, threat hunting, and incident response capabilities. currently working as a **Screening Officer / Security Analyst** at Impact Security, with a focus on access controls and security operations. pursuing a **Junior Network Security Analyst** role and working toward OSCP as a long-term milestone.
+
+my background spans threat detection, vulnerability analysis, and hands-on lab environments. when i'm not in the SOC, i'm running the Edmonton cybersecurity community and sharing what i learn.
+
+---
+
+## 🔐 certifications & credentials
+
+- **CompTIA Security+** (SY0-701) — 860/900  
+- **ISC2 Certified in Cybersecurity (CC)**  
+- **Google Cybersecurity Professional Certificate**  
+
+---
+
+## 🛠️ current work
+
+- **[HomeLab Environment](https://github.com/HomeLab-Raghav)** – building a full SIEM + AD lab for IR simulations and threat hunting  
+  - Windows Server 2022 (AD, DC01)  
+  - Ubuntu web server (WEB01, nginx/Node.js)  
+  - Kali Linux (KALI01, pentesting)  
+  - Wazuh SIEM (WAZUH01, custom detection rules)  
+
+- **Lab 02: IR Cycle Simulation** – documented incident response workflow with formal reporting, root cause analysis, and detection gaps  
+
+- **Custom Wazuh Rules** – building detection logic for distributed brute force, slow attacks, and application-layer threats  
+
+- **[raghv.dev](https://raghv.dev)** – portfolio site (Next.js, Prisma, Turso)
+
+---
+
+## 📚 learning path
+
+- 🎯 studying for **CompTIA CySA+**  
+- 🔍 threat hunting and SIEM tuning  
+- 🛡️ network segmentation and zero-trust architecture  
+- 🐚 advanced bash scripting for automation and forensics  
+- 📈 long-term: OSCP, GIAC certifications
+
+---
+
+## 🌐 connect with me
+
+<p>
+  <a href="https://www.linkedin.com/in/raghav-mahajan-security/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Raghav%20Mahajan-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://raghv.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-raghv.dev-000000?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://discord.gg/edmonton-cybersecurity" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Edmonton%20Cyber%20Community-5865F2?style=for-the-badge&logo=discord" />
+  </a>
+  <a href="mailto:raghav@raghv.dev">
+    <img src="https://img.shields.io/badge/Email-raghav@raghv.dev-0078D4?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-### 🚀 What I'm Working On
+## 📰 writing & content
 
-- 🎯 Building **[ImmigrateX](https://github.com/DMIT-2590/2024-Fall-ImmigrateX.git)** – a smart immigration assistant with real-time eligibility, CRS calculator, and document workflows.  
-- ♟️ Architecting **[3D Chess Game](https://github.com/raghv-m/chess)** – real-time multiplayer + AI with custom difficulty, chat, leaderboard, and WebGL board.  
-- 📿 Developing **[Geeta Bliss](https://github.com/DMIT-2504/project-raghv-m.git)** – a spiritual wellness app with meditation playlists and affirmations.  
-- 🔐 Experimenting with **bat-APP** – a secure, children-friendly chat platform with encryption and AI moderation.
+**[Raghav's Cyber Daily](https://www.linkedin.com/feed/)** – curated cybersecurity news, threat intel summaries, and incident analysis. weekly newsletter covering the latest in threat landscape, tools, and defenses.
 
 ---
 
-### 🌱 Currently Learning
-
-- 🤖 Flutter & Dart for native mobile apps  
-- ⚛️ React Native for cross-platform builds  
-- 🧠 Algorithms & AI-based decision systems  
-- ☁️ Cloud deployments using Docker + AWS + Supabase  
-
----
-
-### 📫 Let's Connect!
-
-<p align="left">
-  <a href="mailto:devrvm@gmail.com"><img src="https://img.shields.io/badge/Email-devrvm@gmail.com-blue?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/raghav-mahajan-17611b24b/"><img src="https://img.shields.io/badge/LinkedIn-Raghav%20Mahajan-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://www.raghv.dev"><img src="https://img.shields.io/badge/Portfolio-www.raghv.dev-brightgreen?style=for-the-badge&logo=vercel" /></a>
-  <a href="https://instagram.com/ragh.v_"><img src="https://img.shields.io/badge/Instagram-raghv--m-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
----
-
-### 🧠 Languages & Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-</p>
-
----
-
-### 💼 Featured Projects
-
-| Project        | Description                                                                 | Stack/Link                                                                 |
-|----------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| 🧠 ImmigrateX   | Smart IRCC tool for students + PR aspirants                                | [ImmigrateX Repo](https://github.com/DMIT-2590/2024-Fall-ImmigrateX.git)  |
-| ♟️ 3D Chess      | Multiplayer chess with AI, chat, and Three.js board                       | [3D Chess Game](https://github.com/raghv-m/chess)                         |
-| 🔐 bat-APP      | Secure chat app for children with AI moderation                            | [bat-APP Repo](https://github.com/raghv-m/bat-APP)                        |
-| 🎥 RaghavTube   | Ad-free video streaming platform (YouTube clone)                           | [RaghavTube](https://github.com/raghv-m/raghavtube)                       |
-| ✨ Geeta Bliss  | Meditation and positivity app with affirmations                            | [Geeta Project](https://github.com/DMIT-2504/project-raghv-m.git)         |
-
----
-
-### 📊 GitHub Stats
+## 🛠️ tech stack
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghv-m&layout=compact&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=raghv-m&show_icons=true&theme=radical&hide=issues" height="170"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-005EB8?style=flat-square&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4B8BBE?style=flat-square&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghv-m&theme=radical" />
-</p>
 
 ---
 
-### 🙌 About Me
+## 🎯 what's next
 
-- 🎓 Diploma in Digital Media & IT – Software Development @ NAIT  
-- 💼 Freelance Full Stack Developer since 2021  
-- 📲 Built 8+ projects including POS systems, mobile apps, chat platforms, and games  
-- 🌍 Fluent in English, Hindi, Punjabi – and coding 😄  
-- 💡 Always curious, always building. Let’s connect and build something awesome!
-
----
-
-🔥 *Feel free to clone, fork, or contribute to any of my projects. I'm open to freelance and collaboration gigs too!*
+- [ ] complete lab 08–11 in homelab environment  
+- [ ] publish threat hunting findings and detection logic  
+- [ ] pass CySA+ and deepen SIEM expertise  
+- [ ] build automation scripts for incident response  
+- [ ] contribute to open-source security tools
 
 ---
 
+**open to:** cybersecurity roles, homelab collab, threat intel discussion, and building the edmonton security community 🔒
+
+---
