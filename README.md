@@ -37,7 +37,7 @@ Hey, I'm Raghav. I studied Computer Software Engineering (Digital Media and IT) 
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec5-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/sec5-light.svg"><img alt="05 This year, live" src="assets/sec5-light.svg" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/contrib-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/contrib-light.svg"><img alt="Contributions in the last year on github.com/raghv-m" src="assets/contrib-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raghv-m/raghv-m/output/snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raghv-m/raghv-m/output/snake-light.svg"><img alt="Contribution snake" src="https://raw.githubusercontent.com/raghv-m/raghv-m/output/snake-light.svg" width="100%"></picture>
 
 <br>
 
