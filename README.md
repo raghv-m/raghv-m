@@ -1,4 +1,6 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-nait-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/header-nait-light.svg"><img alt="Raghav Mahajan. Cybersecurity, security operations, NAIT. An animated scan runs across a grid." src="assets/header-nait-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-nait-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/header-nait-light.svg"><img alt="Raghav Mahajan, junior SOC analyst. raghv.dev, my website. An animated scan runs across a grid." src="assets/header-nait-light.svg" width="100%"></picture>
+
+<p align="center"><a href="https://www.raghv.dev">[ RAGHV.DEV · MY WEBSITE ]</a></p>
 
 Hey, I'm Raghav. I studied Computer Software Engineering (Digital Media and IT) at NAIT in Edmonton, and I work in security: days on site as a corporate security supervisor, and the rest of my time in a home SOC lab, running attacks against my own network so I can practise catching them. I hold CompTIA Security+ and ISC2 CC, and I write the Blue Team Brief, a weekly plain-language security newsletter on LinkedIn.
 
@@ -17,6 +19,8 @@ Hey, I'm Raghav. I studied Computer Software Engineering (Digital Media and IT) 
 <br>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec3-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/sec3-light.svg"><img alt="03 Selected work" src="assets/sec3-light.svg" width="100%"></picture>
+
+<a href="https://www.raghv.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/website-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/website-light.svg"><img alt="raghv.dev, my website: featured investigation LAB-001, a SOC blog, lab write-ups and the full portfolio" src="assets/website-light.svg" width="100%"></picture></a>
 
 <a href="https://github.com/HomeLab-Raghav/docker-soc-lab"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/soclab-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/soclab-light.svg"><img alt="docker-soc-lab, a containerized SOC lab with Wazuh agents, custom detection rules, and attack simulations" src="assets/soclab-light.svg" width="100%"></picture></a>
 
@@ -43,4 +47,4 @@ Hey, I'm Raghav. I studied Computer Software Engineering (Digital Media and IT) 
 
 <a href="mailto:hello@raghv.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg"><img alt="hello@raghv.dev" src="assets/footer-light.svg" width="100%"></picture></a>
 
-<p align="center"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=raghv-m&label=PROFILE%20VIEWS&color=003DA5&style=flat-square"></p>
+<p align="center"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=raghv-m&label=PROFILE%20VIEWS&color=E03232&style=flat-square"></p>
