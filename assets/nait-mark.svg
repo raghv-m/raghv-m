@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="160" viewBox="0 0 720 160">
+<rect width="720" height="160" rx="12" fill="#0B111B" stroke="#26384E"/>
+<path d="M34 22H128L146 44V116L81 143L16 116V44Z" fill="#164B79" stroke="#6EA7D0" stroke-width="2"/>
+<text x="81" y="72" text-anchor="middle" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="31" font-weight="700">NAIT</text>
+<path d="M30 88L81 116L132 88M30 98L81 126L132 98" stroke="#6FC5D9" stroke-width="5" fill="none"/>
+<text x="174" y="65" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="26" font-weight="700">NORTHERN ALBERTA</text>
+<text x="174" y="96" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="26" font-weight="700">INSTITUTE OF TECHNOLOGY</text>
+<text x="176" y="125" fill="#A9B8C8" font-family="monospace" font-size="13" letter-spacing="2">DIGITAL MEDIA &amp; IT · SOFTWARE DEVELOPMENT</text>
+</svg>

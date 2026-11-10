@@ -1,50 +1,93 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-nait-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/header-nait-light.svg"><img alt="Raghav Mahajan, junior SOC analyst. raghv.dev, my website. An animated scan runs across a grid." src="assets/header-nait-light.svg" width="100%"></picture>
+<div align="center">
 
-<p align="center"><a href="https://www.raghv.dev">[ RAGHV.DEV · MY WEBSITE ]</a></p>
+<a href="https://www.raghv.dev">
+  <img src="assets/hero.svg" alt="Raghav Mahajan — Developer and Security Enthusiast" width="100%">
+</a>
 
-Hey, I'm Raghav. I studied Computer Software Engineering (Digital Media and IT) at NAIT in Edmonton, and I work in security: days on site as a corporate security supervisor, and the rest of my time in a home SOC lab, running attacks against my own network so I can practise catching them. I hold CompTIA Security+ and ISC2 CC, and I write the Blue Team Brief, a weekly plain-language security newsletter on LinkedIn.
+<br/>
 
-<br>
+<a href="https://www.raghv.dev"><strong>↗ OPEN RAGHV.DEV</strong></a>
+&nbsp;·&nbsp;
+<a href="https://github.com/raghv-m?tab=repositories">REPOSITORIES</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/raghv-m">GITHUB</a>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec1-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/sec1-light.svg"><img alt="01 What I work on" src="assets/sec1-light.svg" width="100%"></picture>
+</div>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/focus-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/focus-light.svg"><img alt="Detection and investigation, identity and Active Directory, security writing" src="assets/focus-light.svg" width="100%"></picture>
+---
 
-<br>
+<div align="center">
+  <img src="assets/terminal.svg" alt="Animated terminal introduction" width="100%">
+</div>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec2-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/sec2-light.svg"><img alt="02 Stack, as a periodic table" src="assets/sec2-light.svg" width="100%"></picture>
+## `01 / PROFILE`
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg"><img alt="Wazuh, Splunk, Wireshark, Active Directory, Entra ID, PowerShell, Python, Bash, Ubuntu, Kali, Nmap, tcpdump, Docker, Git, MITRE ATT&CK, SQL" src="assets/stack-light.svg" width="100%"></picture>
+I'm Raghav Mahajan, a developer based in Edmonton, Alberta. I build web and mobile applications, work across frontend and backend systems, and spend time understanding how infrastructure behaves and how it can be secured.
 
-<br>
+My interests sit at the intersection of **software development, systems, and defensive cybersecurity**.
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec3-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/sec3-light.svg"><img alt="03 Selected work" src="assets/sec3-light.svg" width="100%"></picture>
+## `02 / EDUCATION`
 
-<a href="https://www.raghv.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/website-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/website-light.svg"><img alt="raghv.dev, my website: featured investigation LAB-001, a SOC blog, lab write-ups and the full portfolio" src="assets/website-light.svg" width="100%"></picture></a>
+<div align="left">
+  <img src="assets/nait-mark.svg" alt="NAIT — Northern Alberta Institute of Technology" width="260">
+</div>
 
-<a href="https://github.com/HomeLab-Raghav/docker-soc-lab"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/soclab-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/soclab-light.svg"><img alt="docker-soc-lab, a containerized SOC lab with Wazuh agents, custom detection rules, and attack simulations" src="assets/soclab-light.svg" width="100%"></picture></a>
+**Northern Alberta Institute of Technology (NAIT)**  
+Diploma in Digital Media & IT — Software Development concentration  
+Edmonton, Alberta · 2024
 
-<p>
-<a href="https://github.com/HomeLab-Raghav/SOC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/playbooks-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/playbooks-light.svg"><img alt="SOC Playbooks, incident response triage and investigation playbooks" src="assets/playbooks-light.svg" width="49%"></picture></a>
-<a href="https://github.com/HomeLab-Raghav/HomeLab"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/homelab-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/homelab-light.svg"><img alt="HomeLab, build notes for the four-node home lab" src="assets/homelab-light.svg" width="49%"></picture></a>
-</p>
+## `03 / WHAT I'M WORKING WITH`
 
-<sub>Most of my code is public here because the lab is the portfolio. Happy to walk through any of it on a call.</sub>
+| Software engineering | Security & infrastructure |
+|---|---|
+| JavaScript / TypeScript | Linux |
+| React / Node.js / Express | SIEM fundamentals |
+| Flutter / Dart | Wazuh |
+| MongoDB / Firebase / SQL | Splunk |
+| REST APIs / Git / CI/CD | Wireshark / tcpdump |
+| Python / Java / C# | Network monitoring & log analysis |
 
-<br><br>
+## `04 / SELECTED WORK`
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec4-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/sec4-light.svg"><img alt="04 Right now" src="assets/sec4-light.svg" width="100%"></picture>
+<div align="center">
+  <a href="https://www.raghv.dev">
+    <img src="assets/projects.svg" alt="Selected projects — visit portfolio" width="100%">
+  </a>
+</div>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/now-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/now-light.svg"><img alt="Learning SC-200 and TryHackMe SOC Level 1, working as a site supervisor in corporate security, writing Blue Team Brief weekly, open to SOC and IT support roles across Canada" src="assets/now-light.svg" width="100%"></picture>
+Explore the repositories for source code, implementation details, and current project status. Project demos and write-ups are collected on **[raghv.dev](https://www.raghv.dev)**.
 
-<br>
+## `05 / SECURITY HOMELAB`
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec5-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/sec5-light.svg"><img alt="05 This year, live" src="assets/sec5-light.svg" width="100%"></picture>
+I use a virtual lab to practise defensive security workflows and understand how telemetry moves from endpoints and networks into monitoring tools.
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raghv-m/raghv-m/output/snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raghv-m/raghv-m/output/snake-light.svg"><img alt="Contribution snake" src="https://raw.githubusercontent.com/raghv-m/raghv-m/output/snake-light.svg" width="100%"></picture>
+- Linux administration and command-line investigation
+- Wazuh, Splunk and log collection
+- Network inspection with Wireshark and tcpdump
+- Alert triage, detection logic and incident-response fundamentals
 
-<br>
+## `06 / GITHUB ACTIVITY`
 
-<a href="mailto:hello@raghv.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg"><img alt="hello@raghv.dev" src="assets/footer-light.svg" width="100%"></picture></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raghv-m&show_icons=true&hide_border=true&bg_color=080A0D&title_color=F5D547&text_color=C7CDD6&icon_color=F5D547&rank_icon=github" height="165" alt="GitHub statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghv-m&layout=compact&hide_border=true&bg_color=080A0D&title_color=F5D547&text_color=C7CDD6" height="165" alt="Most used languages">
+</div>
 
-<p align="center"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=raghv-m&label=PROFILE%20VIEWS&color=E03232&style=flat-square"></p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=raghv-m&hide_border=true&background=080A0D&ring=F5D547&fire=F5D547&currStreakLabel=F5D547&sideLabels=C7CDD6&dates=9299A3&currStreakNum=FFFFFF&sideNums=FFFFFF" width="90%" alt="GitHub contribution streak">
+</div>
+
+## `07 / ELSEWHERE`
+
+<div align="center">
+
+**[RAGHV.DEV](https://www.raghv.dev)** — Portfolio, projects & contact  
+**[GITHUB](https://github.com/raghv-m)** — Code and experiments
+
+</div>
+
+<div align="center">
+  <sub>BUILD · BREAK · UNDERSTAND · IMPROVE</sub>
+  <br/>
+  <img src="assets/footer.svg" width="100%" alt="Animated profile footer">
+</div>
