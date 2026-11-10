@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="t d">
+<title id="t">Raghav Mahajan — Developer and Security Enthusiast</title><desc id="d">Dark technical banner with animated yellow signal lines.</desc>
+<defs>
+ <pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#202630" stroke-width="1"/></pattern>
+ <linearGradient id="glow"><stop stop-color="#F5D547" stop-opacity=".0"/><stop offset=".5" stop-color="#F5D547" stop-opacity=".8"/><stop offset="1" stop-color="#F5D547" stop-opacity="0"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="7"/></filter>
+</defs>
+<rect width="1200" height="340" rx="18" fill="#080A0D"/><rect width="1200" height="340" rx="18" fill="url(#g)"/>
+<path d="M0 280H1200" stroke="#252C35"/><path d="M0 24H1200" stroke="#252C35"/>
+<g fill="#F5D547" font-family="monospace" font-size="13" letter-spacing="3"><text x="54" y="58">RAGHV-M / PERSONAL ENGINEERING PROFILE</text><text x="54" y="306">EDMONTON, AB · CANADA</text><text x="1145" y="306" text-anchor="end">EST. 2024+</text></g>
+<text x="52" y="158" fill="#F4F5F7" font-family="Arial,Helvetica,sans-serif" font-size="66" font-weight="700">Raghav Mahajan</text>
+<text x="56" y="205" fill="#AAB2BE" font-family="monospace" font-size="21">SOFTWARE DEVELOPER  /  SECURITY ENTHUSIAST</text>
+<rect x="55" y="235" width="270" height="3" rx="2" fill="#333B46"/><rect x="55" y="235" width="80" height="3" rx="2" fill="#F5D547">
+ <animate attributeName="width" values="40;270;40" dur="5s" repeatCount="indefinite"/>
+</rect>
+<g transform="translate(920 65)" fill="none" stroke="#F5D547">
+ <circle cx="105" cy="95" r="80" opacity=".35"/><circle cx="105" cy="95" r="57" opacity=".5"/>
+ <path d="M25 95H185M105 15V175M49 39L161 151M161 39L49 151" opacity=".35"/>
+ <circle cx="105" cy="95" r="7" fill="#F5D547" stroke="none"><animate attributeName="r" values="5;10;5" dur="2.4s" repeatCount="indefinite"/></circle>
+ <circle cx="105" cy="95" r="80" stroke-dasharray="18 18"><animateTransform attributeName="transform" type="rotate" from="0 105 95" to="360 105 95" dur="24s" repeatCount="indefinite"/></circle>
+</g>
+<rect x="0" y="0" width="1200" height="340" rx="18" fill="none" stroke="#343B45"/>
+</svg>
